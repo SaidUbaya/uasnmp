@@ -1,12 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "soalMudah": [
+    { "id": 1, "question": "Apa ibukota Indonesia", "answer": "Jakarta", "option" : "Surabaya, Jogja, Medan, Jakarta" },
+     { "id": 2, "question": "Ikan yang sering dibudidayakan", "answer": "Lele", "option" : "Lele, Hiu, Piranha, Lumba-lumba" },
+     { "id": 3, "question": "Siapa presiden pertama Indonesia", "answer": "Soekarno", "option" : "Soekarno, Rissel, Bagus, Said" },
+     { "id": 4, "question": "Dimana letak ubaya", "answer": "Surabaya", "option" : "Papua, Madura, Surabaya, Thailand" },
+    { "id": 5, "question": "Ikan bernafas dengan dengan", "answer": "Insang", "option" : "Paruparu, Otak, Insang, Ekor" },
+    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+ "soalMedium": [
+    { "id": 1, "question": "1 + 1", "answer": "2", "option" : "4, 5, 79, 2" },
+     { "id": 2, "question": "1 * 1", "answer": "1", "option" : "1, 10, 100, 1000" },
+     { "id": 3, "question": "3 * 3", "answer": "9", "option" : "5, 14, 9, 3" },
+     { "id": 4, "question": "5 * 5 + 1", "answer": "26", "option" : "26, 1, 31, 59" },
+    { "id": 5, "question": "1 + 1 + 3", "answer": "5", "option" : "1, 2, 3, 5" },
+    
+  ],
+ "soalSusah": [
+    { "id": 1, "question": "Apa ibukota Indonesia", "answer": "Jakarta", "option" : "Surabaya, Jogja, Medan, Jakarta" },
+     { "id": 2, "question": "Ikan yang sering dibudidayakan", "answer": "Lele", "option" : "Lele, Hiu, Piranha, Lumba-lumba" },
+     { "id": 3, "question": "Siapa presiden pertama Indonesia", "answer": "Soekarno", "option" : "Soekarno, Rissel, Bagus, Said" },
+     { "id": 4, "question": "Dimana letak ubaya", "answer": "Surabaya", "option" : "Papua, Madura, Surabaya, Thailand" },
+    { "id": 5, "question": "Ikan bernafas dengan dengan", "answer": "Insang", "option" : "Paruparu, Otak, Insang, Ekor" },
+    
   ],
   "profile": {
     "name": "saidUbaya"
